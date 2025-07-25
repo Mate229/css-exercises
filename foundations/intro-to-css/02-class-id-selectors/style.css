@@ -1,10 +1,10 @@
 .one {
-    background-color: pink;
+    background-color: #ffc0cb;
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
 #idone {
-    color: blue;
+    color: #0000ff;
     font-size: 36px;
 }
 
@@ -13,7 +13,7 @@
 }
 
 #another {
-    background-color: lightgreen;
+    background-color: #90ee90;
     font-size: 24px;
     font-weight: bold;
 }
